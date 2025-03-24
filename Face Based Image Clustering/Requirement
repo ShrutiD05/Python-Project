@@ -1,0 +1,12 @@
+1. Ide Used - VS Code 
+2. Development Tools - MSVC, CMake, and Windows SDK
+3. Library Used - OpenCV (cv2), face_recognition, NumPy (numpy), Pickle (pickle), OS (os).
+4. Folders Named as --- People 📁
+                |--- Output 📁
+                |--- Dataset 📁
+                |--- main.py 📄
+
+People 📁 --> Stores known images for face encoding and recognition.
+Dataset 📁--> Contains images to be processed and clustered.
+Output 📁 --> Saves categorized images based on recognition results.
+main.py 📄 --> Contain actual coading 
